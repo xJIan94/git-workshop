@@ -23,4 +23,4 @@ Should be OK liao.
 Attendees
 --------
 * Anonoz
-* ... your name here ...
+* Jai ...maybe XD
