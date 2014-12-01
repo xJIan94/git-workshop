@@ -24,3 +24,4 @@ Attendees
 --------
 * Anonoz
 * ... your name here ...
+* Xiong Jian
