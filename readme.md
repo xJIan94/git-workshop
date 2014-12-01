@@ -4,7 +4,10 @@ Git Workshop
 Details
 -------
 FCI AR 1007
-8 December 2014 7.30 - 10.00 PM
+
+8 December 2014 
+
+7.30 - 10.00 PM
 
 How To Signup
 -------------
