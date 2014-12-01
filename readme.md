@@ -26,4 +26,4 @@ Attendees
 * Jai ...maybe XD
 * Hii Yong Lian
 * Kah Loon
-
+* Bing Yuan
