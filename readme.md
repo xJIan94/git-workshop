@@ -25,4 +25,5 @@ Attendees
 * Anonoz
 * Jai ...maybe XD
 * Hii Yong Lian
+* Kah Loon
 
