@@ -27,3 +27,4 @@ Attendees
 * Hii Yong Lian
 * Kah Loon
 * Bing Yuan
+* Asyraf
