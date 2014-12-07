@@ -28,3 +28,4 @@ Attendees
 * Kah Loon
 * Bing Yuan
 * Asyraf
+* XIong JIan
